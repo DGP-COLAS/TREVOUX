@@ -1,0 +1,1242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Images</name>
+    <Style id="icon-1899-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>IMG_2577</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v56qMTr9BBoVV_6epuJPm9EExTB6AKS7OHBcbiTEVsrvTTimapfeZbklRs9OX7hgBpeWQ3VU3MzyA" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 14:25:59; Coordinates: N45°55'52.70"; E4°48'44.79"; Model: iPhone 14 Pro; Exposure Time: 1/2875 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 2999832; File Date: 01/10/2025 09:47:09; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 2268x3024; Megapixels: 6.9; Altitude: 170.3 m; GPS Date: 29/09/2025; Speed: 0.000 km/h; Image Direction: 337.53°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v56qMTr9BBoVV_6epuJPm9EExTB6AKS7OHBcbiTEVsrvTTimapfeZbklRs9OX7hgBpeWQ3VU3MzyA</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.812442,45.931306,170.29
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2579</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v7RExgLooQS7cTJACBDdVx_ol5B4FC6xbc9ozCRWLGcKHxYUm70f0WkGlHP0hdlbcLqCraHgmQHbQ" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 14:56:47; Coordinates: N45°55'52.55"; E4°48'44.62"; Model: iPhone 14 Pro; Exposure Time: 1/6211 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 1794831; File Date: 01/10/2025 09:47:09; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 2268x3024; Megapixels: 6.9; Altitude: 180.0 m; GPS Date: 29/09/2025; Speed: 0.750 km/h; Image Direction: 73.72°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v7RExgLooQS7cTJACBDdVx_ol5B4FC6xbc9ozCRWLGcKHxYUm70f0WkGlHP0hdlbcLqCraHgmQHbQ</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.812394,45.931264,179.95
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2580</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v7kKq9BjVSYoLh0YPSAJ6s4vaANWjtUYYMGKAyFDFDVOnIUFbdTtxFLGaDS85GzkhZOnOg4BXK1MJQ" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 14:58:24; Coordinates: N45°55'50.20"; E4°48'48.05"; Model: iPhone 14 Pro; Exposure Time: 1/244 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 2233637; File Date: 01/10/2025 09:47:09; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 2268x3024; Megapixels: 6.9; Altitude: 190.6 m; GPS Date: 29/09/2025; Speed: 0.000 km/h; Image Direction: 138.00°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v7kKq9BjVSYoLh0YPSAJ6s4vaANWjtUYYMGKAyFDFDVOnIUFbdTtxFLGaDS85GzkhZOnOg4BXK1MJQ</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.813347,45.930611,190.55
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2582</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v6NiKNsfx_yIGJguMl2uoIZRg9j8cJ8BF6GJfHyoX5uk0OqDytGizQhCWBbusixbSPT7GUtmxsgpw" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 14:58:46; Coordinates: N45°55'50.12"; E4°48'47.90"; Model: iPhone 14 Pro; Exposure Time: 1/7042 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 2081936; File Date: 01/10/2025 09:47:09; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 2268x3024; Megapixels: 6.9; Altitude: 191.2 m; GPS Date: 29/09/2025; Speed: 0.000 km/h; Image Direction: 238.23°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v6NiKNsfx_yIGJguMl2uoIZRg9j8cJ8BF6GJfHyoX5uk0OqDytGizQhCWBbusixbSPT7GUtmxsgpw</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.813306,45.930589,191.21
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2583</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v763lncmc380D6rzWcuJkyS3S8tn3Lmwz2dUzV0ARrDtGge4BFzHGxvfUgnhsVEqzOHxp1ZGE-5Xfk" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 14:59:38; Coordinates: N45°55'49.25"; E4°48'49.09"; Model: iPhone 14 Pro; Exposure Time: 1/18519 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 2129749; File Date: 01/10/2025 09:47:09; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 2268x3024; Megapixels: 6.9; Altitude: 189.3 m; GPS Date: 29/09/2025; Speed: 0.230 km/h; Image Direction: 226.85°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v763lncmc380D6rzWcuJkyS3S8tn3Lmwz2dUzV0ARrDtGge4BFzHGxvfUgnhsVEqzOHxp1ZGE-5Xfk</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.813636,45.930347,189.32
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2584</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v7IHjYtQR_4IHvGmIlF8NwtQZthGNy8mzPEWOkPdT-1S3szMDrNxHoUz6z9aEB-aruN7QV-nxS3aVA" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 14:59:45; Coordinates: N45°55'49.09"; E4°48'49.45"; Model: iPhone 14 Pro; Exposure Time: 1/3460 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 2301273; File Date: 01/10/2025 09:47:09; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 2268x3024; Megapixels: 6.9; Altitude: 188.3 m; GPS Date: 29/09/2025; Speed: 1.400 km/h; Image Direction: 57.58°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v7IHjYtQR_4IHvGmIlF8NwtQZthGNy8mzPEWOkPdT-1S3szMDrNxHoUz6z9aEB-aruN7QV-nxS3aVA</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.813736,45.930303,188.27
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2586</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v5crfnJ_1KupaClQ4bzlbV4XGp08LcCii3el55EokAVdeXj-ZQvUS7r5MAVS8RJat7qg-KmbguWGg" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 15:01:03; Coordinates: N45°55'47.26"; E4°48'51.99"; Model: iPhone 14 Pro; Exposure Time: 1/4740 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 2595129; File Date: 01/10/2025 09:47:09; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 4032x3024; Megapixels: 12.2; Altitude: 190.5 m; GPS Date: 29/09/2025; Speed: 1.390 km/h; Image Direction: 94.52°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v5crfnJ_1KupaClQ4bzlbV4XGp08LcCii3el55EokAVdeXj-ZQvUS7r5MAVS8RJat7qg-KmbguWGg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.814442,45.929794,190.48
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2588</name>
+      <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQNLeN7K4nPNf2-R0rmLVmYBZ3rXRxZoNqvZAJd__xRTaG0AEPelkUgciFki8wRHPwG8F4KQbf4zfWPPvRcvLFMAQVLR6_pIrrqB-AIMiPeffL8DUzBjpx_M-KYcNYqJKSkaCfDMar7qhjERth35IqJqisg-azLNpJ-IMhGPJf_4lBNEypNJG7uSDiK5dlJZiY6AJ9B9H4qgstL1aVVrwYOY1NTlYzAoyzw91UbUqdMn7jIUP1d1_CVBx4?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 15:01:57; Coordinates: N45°55'45.74"; E4°48'53.84"; Model: iPhone 14 Pro; Exposure Time: 1/18519 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 3287845; File Date: 01/10/2025 09:47:09; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 4032x3024; Megapixels: 12.2; Altitude: 185.9 m; GPS Date: 29/09/2025; Speed: 1.350 km/h; Image Direction: 198.65°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQNLeN7K4nPNf2-R0rmLVmYBZ3rXRxZoNqvZAJd__xRTaG0AEPelkUgciFki8wRHPwG8F4KQbf4zfWPPvRcvLFMAQVLR6_pIrrqB-AIMiPeffL8DUzBjpx_M-KYcNYqJKSkaCfDMar7qhjERth35IqJqisg-azLNpJ-IMhGPJf_4lBNEypNJG7uSDiK5dlJZiY6AJ9B9H4qgstL1aVVrwYOY1NTlYzAoyzw91UbUqdMn7jIUP1d1_CVBx4?authuser=0&fife=s16383]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.814956,45.929372,185.94
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2590</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v7nsWUclba7oMMUbJNkc80yAvynG4y9Wjdf5tJIlAUyvuFvuTIWwP8yTSwSYnA6LUh7Wc6k49NF2ik" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 15:08:38; Coordinates: N45°55'33.72"; E4°49'9.02"; Model: iPhone 14 Pro; Exposure Time: 1/3150 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 4123771; File Date: 01/10/2025 09:47:09; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 4032x3024; Megapixels: 12.2; Altitude: 177.0 m; GPS Date: 29/09/2025; Speed: 0.000 km/h; Image Direction: 25.89°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v7nsWUclba7oMMUbJNkc80yAvynG4y9Wjdf5tJIlAUyvuFvuTIWwP8yTSwSYnA6LUh7Wc6k49NF2ik</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.819172,45.926033,177.03
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2591</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v6YKu7vAyYK9czBI6_CPPZuX4Ud60BdNl38uf8aJbHVScvUU968hMEB6KJtihxtIpRhb4nNdXwPvqA" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 15:08:45; Coordinates: N45°55'33.53"; E4°49'9.19"; Model: iPhone 14 Pro; Exposure Time: 1/3345 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 2294966; File Date: 01/10/2025 09:47:09; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 2268x3024; Megapixels: 6.9; Altitude: 181.7 m; GPS Date: 29/09/2025; Speed: 0.600 km/h; Image Direction: 336.33°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v6YKu7vAyYK9czBI6_CPPZuX4Ud60BdNl38uf8aJbHVScvUU968hMEB6KJtihxtIpRhb4nNdXwPvqA</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.819219,45.925981,181.69
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2594</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v5rPhkJhzq3ggnY6dTCuy1AjF_rlT1fUJXkrfdcXvHDp32MdqVsHb1aCz6P1ih04l3gL-1EzuNEHQ" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 15:14:02; Coordinates: N45°55'31.12"; E4°49'11.02"; Model: iPhone 14 Pro; Exposure Time: 1/864 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 2671182; File Date: 01/10/2025 09:47:09; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 2268x3024; Megapixels: 6.9; Altitude: 185.7 m; GPS Date: 29/09/2025; Speed: 0.620 km/h; Image Direction: 259.69°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v5rPhkJhzq3ggnY6dTCuy1AjF_rlT1fUJXkrfdcXvHDp32MdqVsHb1aCz6P1ih04l3gL-1EzuNEHQ</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.819728,45.925311,185.67
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2595</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v747lDabdXoxHcjF0imjb8umhO3ly6YPHHmfHd3a7CklFkJLlK2FHN6OQXHpBhHE01kvnTtiAETMy4" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 15:15:04; Coordinates: N45°55'29.02"; E4°49'12.47"; Model: iPhone 14 Pro; Exposure Time: 1/910 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 2140604; File Date: 01/10/2025 09:47:09; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 2268x3024; Megapixels: 6.9; Altitude: 185.0 m; GPS Date: 29/09/2025; Speed: 0.800 km/h; Image Direction: 198.06°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v747lDabdXoxHcjF0imjb8umhO3ly6YPHHmfHd3a7CklFkJLlK2FHN6OQXHpBhHE01kvnTtiAETMy4</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.820131,45.924728,184.95
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2596</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v7SpWEQLQh-j4qryEqKt-X9OuDfmHTnsCyjHCrZBIF0rWW2TPxvSwdBv3vlA1efL5ohbIIqK7FUmys" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 15:15:10; Coordinates: N45°55'29.06"; E4°49'12.72"; Model: iPhone 14 Pro; Exposure Time: 1/604 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 2499306; File Date: 01/10/2025 09:47:09; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 2268x3024; Megapixels: 6.9; Altitude: 184.9 m; GPS Date: 29/09/2025; Speed: 0.670 km/h; Image Direction: 214.65°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v7SpWEQLQh-j4qryEqKt-X9OuDfmHTnsCyjHCrZBIF0rWW2TPxvSwdBv3vlA1efL5ohbIIqK7FUmys</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.8202,45.924739,184.89
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2597</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v4hoICK-Si-VTlgoS8b6kzZCmRgQRFWSMLrjATq-wkxwhjuvdrCtDJOOIfwZeoEgO6okZL0hoo6iVE" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 15:15:11; Coordinates: N45°55'29.06"; E4°49'12.71"; Model: iPhone 14 Pro; Exposure Time: 1/10753 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 1181083; File Date: 01/10/2025 09:47:09; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 2268x3024; Megapixels: 6.9; Altitude: 185.0 m; GPS Date: 29/09/2025; Speed: 0.000 km/h; Image Direction: 167.86°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v4hoICK-Si-VTlgoS8b6kzZCmRgQRFWSMLrjATq-wkxwhjuvdrCtDJOOIfwZeoEgO6okZL0hoo6iVE</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.820197,45.924739,184.96
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2599</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v4r47USQjs_pOk-IthmNHFg1NuXXn5fdYEz326QulIU3JReqJKv6R6lTzRbNCIAUvR0-_bwZ4VOIg" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 15:19:50; Coordinates: N45°55'19.44"; E4°49'16.25"; Model: iPhone 14 Pro; Exposure Time: 1/2250 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 2398442; File Date: 01/10/2025 09:47:09; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 2268x3024; Megapixels: 6.9; Altitude: 172.1 m; GPS Date: 29/09/2025; Speed: 1.440 km/h; Image Direction: 322.96°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v4r47USQjs_pOk-IthmNHFg1NuXXn5fdYEz326QulIU3JReqJKv6R6lTzRbNCIAUvR0-_bwZ4VOIg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.821181,45.922067,172.14
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2601</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v4tAXxi6X_L0C_sOzem-l8SSpNNJNAobOJJtZmDPTTSX4DFA4g-jCeLu81dMu-4dG_EiSDRkTY3VIY" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 15:21:10; Coordinates: N45°55'18.53"; E4°49'16.82"; Model: iPhone 14 Pro; Exposure Time: 1/1750 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 3515269; File Date: 01/10/2025 09:47:09; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 2268x3024; Megapixels: 6.9; Altitude: 185.8 m; GPS Date: 29/09/2025; Speed: 0.460 km/h; Image Direction: 159.77°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v4tAXxi6X_L0C_sOzem-l8SSpNNJNAobOJJtZmDPTTSX4DFA4g-jCeLu81dMu-4dG_EiSDRkTY3VIY</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.821339,45.921814,185.76
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2602</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v7BU5gcaDJgggtiUHzNYp9cJJ2-VxFq2PQ7Jj8ydl8DK9f-T2cGqwYpEYjf0ODEh8-mJHehf3SQOw" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 15:21:21; Coordinates: N45°55'18.08"; E4°49'17.09"; Model: iPhone 14 Pro; Exposure Time: 1/1615 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 3213861; File Date: 01/10/2025 09:47:09; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 2268x3024; Megapixels: 6.9; Altitude: 183.0 m; GPS Date: 29/09/2025; Speed: 0.900 km/h; Image Direction: 133.11°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v7BU5gcaDJgggtiUHzNYp9cJJ2-VxFq2PQ7Jj8ydl8DK9f-T2cGqwYpEYjf0ODEh8-mJHehf3SQOw</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.821414,45.921689,182.98
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2603</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v7_QNMDb4oBpXSD-QQ9BSvUs_hUD32vp-KHNJqJR13OZ7pTxTXJTROq9pz0ElIlUBXbwK7Q0xSnrNM" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 15:23:30; Coordinates: N45°55'13.02"; E4°49'19.25"; Model: iPhone 14 Pro; Exposure Time: 1/13699 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 1772120; File Date: 01/10/2025 09:47:09; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 2268x3024; Megapixels: 6.9; Altitude: 183.7 m; GPS Date: 29/09/2025; Speed: 0.560 km/h; Image Direction: 207.56°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v7_QNMDb4oBpXSD-QQ9BSvUs_hUD32vp-KHNJqJR13OZ7pTxTXJTROq9pz0ElIlUBXbwK7Q0xSnrNM</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.822014,45.920283,183.68
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2604</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v64EEtLZk7LcLIQI21ffypPPdeQNUZbSR0QUsCdwopbX3zah27_TtXvBugwYC9GqhIj-PfmoXfVddk" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 15:24:50; Coordinates: N45°55'11.31"; E4°49'20.09"; Model: iPhone 14 Pro; Exposure Time: 1/2070 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 3643454; File Date: 01/10/2025 09:47:09; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 2268x3024; Megapixels: 6.9; Altitude: 182.2 m; GPS Date: 29/09/2025; Speed: 0.000 km/h; Image Direction: 352.66°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v64EEtLZk7LcLIQI21ffypPPdeQNUZbSR0QUsCdwopbX3zah27_TtXvBugwYC9GqhIj-PfmoXfVddk</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.822247,45.919808,182.15
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2605</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v50wwp2Yzrg2b1RacrIH1UNRk4I0-BDuImdlH10K3hfbzFyq7ACpuLAouanWGFlLBgyHgbtZXOKRks" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 15:24:53; Coordinates: N45°55'11.29"; E4°49'20.09"; Model: iPhone 14 Pro; Exposure Time: 1/5263 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 2340590; File Date: 01/10/2025 09:47:09; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 2268x3024; Megapixels: 6.9; Altitude: 182.3 m; GPS Date: 29/09/2025; Speed: 0.000 km/h; Image Direction: 48.00°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v50wwp2Yzrg2b1RacrIH1UNRk4I0-BDuImdlH10K3hfbzFyq7ACpuLAouanWGFlLBgyHgbtZXOKRks</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.822247,45.919803,182.34
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2606</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v67ZCMe3WkfRuhY8NMDqVKaMjiieSlFy5Eqli4vFqx-sZ59ilxSLIkMCEjml0NqfQLp2TvkGASj4A" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 15:26:13; Coordinates: N45°55'8.41"; E4°49'21.29"; Model: iPhone 14 Pro; Exposure Time: 1/486 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 2659029; File Date: 01/10/2025 09:47:09; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 2268x3024; Megapixels: 6.9; Altitude: 185.4 m; GPS Date: 29/09/2025; Speed: 0.000 km/h; Image Direction: 157.88°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v67ZCMe3WkfRuhY8NMDqVKaMjiieSlFy5Eqli4vFqx-sZ59ilxSLIkMCEjml0NqfQLp2TvkGASj4A</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.822581,45.919003,185.44
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2607</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v5cv5rwgLuYUk0a-esyxPxaVIjBhPOcoOY_M61OFfbo1DI04WrnbBED6JSGhvqoeXoxVidtqnU1Cw" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 15:29:59; Coordinates: N45°55'7.71"; E4°49'21.46"; Model: iPhone 14 Pro; Exposure Time: 1/829 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 2424690; File Date: 01/10/2025 09:47:09; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 2268x3024; Megapixels: 6.9; Altitude: 183.7 m; GPS Date: 29/09/2025; Speed: 0.000 km/h; Image Direction: 54.09°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v5cv5rwgLuYUk0a-esyxPxaVIjBhPOcoOY_M61OFfbo1DI04WrnbBED6JSGhvqoeXoxVidtqnU1Cw</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.822628,45.918808,183.67
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2608</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v705SQuG_8HocK78tpyD_LwJyIkylDC2G8aA2igz029x7nQmjPAbDA-i_HvDesIFybEJYq7LzPiFrI" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 15:34:09; Coordinates: N45°55'3.59"; E4°49'22.87"; Model: iPhone 14 Pro; Exposure Time: 1/3705 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 2614866; File Date: 01/10/2025 09:47:09; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 2268x3024; Megapixels: 6.9; Altitude: 186.6 m; GPS Date: 29/09/2025; Speed: 0.000 km/h; Image Direction: 345.55°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v705SQuG_8HocK78tpyD_LwJyIkylDC2G8aA2igz029x7nQmjPAbDA-i_HvDesIFybEJYq7LzPiFrI</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.823019,45.917664,186.64
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2609</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v7QGCUOm1fFBAOqo9dq6EtZiw4UkEeBBJOwcCyJ1i4o5P8CQx8Cl-5KnVLgr-2aFe3XHY0lU4RYsxE" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 15:35:57; Coordinates: N45°55'3.18"; E4°49'23.69"; Model: iPhone 14 Pro; Exposure Time: 1/3240 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 1742187; File Date: 01/10/2025 09:47:09; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 2268x3024; Megapixels: 6.9; Altitude: 186.4 m; GPS Date: 29/09/2025; Speed: 0.000 km/h; Image Direction: 296.47°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v7QGCUOm1fFBAOqo9dq6EtZiw4UkEeBBJOwcCyJ1i4o5P8CQx8Cl-5KnVLgr-2aFe3XHY0lU4RYsxE</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.823247,45.91755,186.35
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2610</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v5OTtIXUBvMOhOANJiRmewxt4RGCI-5PTY9qUcuQngJJemT5OopRrSmfZ4N1f9VMpZRt_b6Cy5MbIw" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 15:36:14; Coordinates: N45°55'3.33"; E4°49'23.64"; Model: iPhone 14 Pro; Exposure Time: 1/4980 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 2033254; File Date: 01/10/2025 09:47:09; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 2268x3024; Megapixels: 6.9; Altitude: 188.4 m; GPS Date: 29/09/2025; Speed: 0.180 km/h; Image Direction: 66.94°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v5OTtIXUBvMOhOANJiRmewxt4RGCI-5PTY9qUcuQngJJemT5OopRrSmfZ4N1f9VMpZRt_b6Cy5MbIw</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.823233,45.917592,188.4
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2612</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v6saK3bos_j-3-TsNdZIjvxEYBoUyTWva22dvd7wm-tNxDCcm5icvD3QJJU6EVYpu22VJ6YXwq9yIQ" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 15:39:02; Coordinates: N45°54'58.70"; E4°49'24.71"; Model: iPhone 14 Pro; Exposure Time: 1/171 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 100; Rating: 0; File Size: 1933839; File Date: 01/10/2025 09:47:09; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 2268x3024; Megapixels: 6.9; Altitude: 182.6 m; GPS Date: 29/09/2025; Speed: 0.000 km/h; Image Direction: 214.33°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v6saK3bos_j-3-TsNdZIjvxEYBoUyTWva22dvd7wm-tNxDCcm5icvD3QJJU6EVYpu22VJ6YXwq9yIQ</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.823531,45.916306,182.58
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2613</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v6R2o9au39Pqsbnkp8r35yw7KhrS1h3UrriWYYYKdzfdDBMg7Aej2aM58ABJbWEXfiJKRFL7u-kwig" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 15:39:04; Coordinates: N45°54'58.65"; E4°49'24.65"; Model: iPhone 14 Pro; Exposure Time: 1/148 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 100; Rating: 0; File Size: 1964077; File Date: 01/10/2025 09:47:09; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 2268x3024; Megapixels: 6.9; Altitude: 184.9 m; GPS Date: 29/09/2025; Speed: 0.000 km/h; Image Direction: 260.37°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v6R2o9au39Pqsbnkp8r35yw7KhrS1h3UrriWYYYKdzfdDBMg7Aej2aM58ABJbWEXfiJKRFL7u-kwig</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.823514,45.916292,184.88
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2614</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v4gp4oxpwEZjKPsTj5-ZDpuX_k_wk1z8wW7LqXY566SYt5fl9QUdrSZZLvWMMAaNQGAOYtgNEjVsdA" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 15:39:47; Coordinates: N45°54'56.78"; E4°49'24.21"; Model: iPhone 14 Pro; Exposure Time: 1/144 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 64; Rating: 0; File Size: 2133275; File Date: 01/10/2025 09:47:10; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 2268x3024; Megapixels: 6.9; Altitude: 196.1 m; GPS Date: 29/09/2025; Speed: 0.980 km/h; Image Direction: 216.73°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v4gp4oxpwEZjKPsTj5-ZDpuX_k_wk1z8wW7LqXY566SYt5fl9QUdrSZZLvWMMAaNQGAOYtgNEjVsdA</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.823392,45.915772,196.14
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2616</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v5k7bOH54AVVHfpwCrlKEVNjGSWrjTT-HTfGx4fVUoeyM82kc7Tnc7c8UrRbLuMKVR7GXoGAooYJA" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 15:40:59; Coordinates: N45°54'53.87"; E4°49'23.49"; Model: iPhone 14 Pro; Exposure Time: 1/2585 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 1345027; File Date: 01/10/2025 09:47:10; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 2268x3024; Megapixels: 6.9; Altitude: 197.5 m; GPS Date: 29/09/2025; Speed: 0.570 km/h; Image Direction: 202.32°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v5k7bOH54AVVHfpwCrlKEVNjGSWrjTT-HTfGx4fVUoeyM82kc7Tnc7c8UrRbLuMKVR7GXoGAooYJA</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.823192,45.914964,197.47
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2618</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v6pgs9r-NAU3sohispD2BZLwwCb3j8rJSJkPS5rRX2X5Jdn2Sm6WTTYoHG-T4m0GuOb0XsOZkVwo14" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 15:41:41; Coordinates: N45°54'53.54"; E4°49'23.34"; Model: iPhone 14 Pro; Exposure Time: 1/1780 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 1115613; File Date: 01/10/2025 09:47:10; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 2268x3024; Megapixels: 6.9; Altitude: 195.5 m; GPS Date: 29/09/2025; Speed: 0.000 km/h; Image Direction: 138.60°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v6pgs9r-NAU3sohispD2BZLwwCb3j8rJSJkPS5rRX2X5Jdn2Sm6WTTYoHG-T4m0GuOb0XsOZkVwo14</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.82315,45.914872,195.52
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2620</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v5e5vJ2-rgghsF5iQB6bvTTrdpVcg33oMcbjFgvJv_Okl17c-BejEYTml4PfmkCB5kmAlMlMRaxkQo" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 15:42:26; Coordinates: N45°54'53.32"; E4°49'22.99"; Model: iPhone 14 Pro; Exposure Time: 1/4740 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 2141465; File Date: 01/10/2025 09:47:10; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 2268x3024; Megapixels: 6.9; Altitude: 200.9 m; GPS Date: 29/09/2025; Speed: 0.000 km/h; Image Direction: 198.70°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v5e5vJ2-rgghsF5iQB6bvTTrdpVcg33oMcbjFgvJv_Okl17c-BejEYTml4PfmkCB5kmAlMlMRaxkQo</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.823053,45.914811,200.92
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2622</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v40Z0CvYPiC1z8o5afPiRuZBu6HQ5S1pQztRD2pmYR6K3vVZVU6AWXyBTd_ao_rQZ3lPXMxFilm_P0" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 15:43:09; Coordinates: N45°54'53.44"; E4°49'23.39"; Model: iPhone 14 Pro; Exposure Time: 1/3150 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 2084726; File Date: 01/10/2025 09:47:10; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 2268x3024; Megapixels: 6.9; Altitude: 201.9 m; GPS Date: 29/09/2025; Speed: 0.000 km/h; Image Direction: 23.36°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v40Z0CvYPiC1z8o5afPiRuZBu6HQ5S1pQztRD2pmYR6K3vVZVU6AWXyBTd_ao_rQZ3lPXMxFilm_P0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.823164,45.914844,201.91
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2623</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v7h4tYLL1z02S6AVs2OVxF5dqRVNaDM75vaq6FGE7AU5crU48Ufoq933vsnvEg6_VYCGkSlkDXX8qk" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 15:47:00; Coordinates: N45°54'52.09"; E4°49'21.99"; Model: iPhone 14 Pro; Exposure Time: 1/121 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 160; Rating: 0; File Size: 2327204; File Date: 01/10/2025 09:47:10; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 2268x3024; Megapixels: 6.9; Altitude: 221.7 m; GPS Date: 29/09/2025; Speed: 0.000 km/h; Image Direction: 288.35°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v7h4tYLL1z02S6AVs2OVxF5dqRVNaDM75vaq6FGE7AU5crU48Ufoq933vsnvEg6_VYCGkSlkDXX8qk</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.822775,45.914469,221.65
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2625</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v4U2OMshoZzeaI8yCyDzMlWfkxsfRdtLwUwY8TegZcRk0bNgoSzQBRnQ2390h2f3q3VMRbbBqB4Bg" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 15:47:29; Coordinates: N45°54'51.35"; E4°49'22.86"; Model: iPhone 14 Pro; Exposure Time: 1/60 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 250; Rating: 0; File Size: 4153701; File Date: 01/10/2025 09:47:10; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 4032x3024; Megapixels: 12.2; Altitude: 193.3 m; GPS Date: 29/09/2025; Speed: 0.300 km/h; Image Direction: 9.61°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v4U2OMshoZzeaI8yCyDzMlWfkxsfRdtLwUwY8TegZcRk0bNgoSzQBRnQ2390h2f3q3VMRbbBqB4Bg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.823017,45.914264,193.33
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2626</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v5IIwPIB34wTq7k189zyqCKyjOUOzqcBbjezihO5LYYGg36i67_k8Wu-t6ZAmL2Jzo26viHu02w8ro" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 15:48:12; Coordinates: N45°54'50.08"; E4°49'22.52"; Model: iPhone 14 Pro; Exposure Time: 1/121 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 100; Rating: 0; File Size: 2838998; File Date: 01/10/2025 09:47:10; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 2268x3024; Megapixels: 6.9; Altitude: 196.8 m; GPS Date: 29/09/2025; Speed: 0.420 km/h; Image Direction: 111.27°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v5IIwPIB34wTq7k189zyqCKyjOUOzqcBbjezihO5LYYGg36i67_k8Wu-t6ZAmL2Jzo26viHu02w8ro</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.822922,45.913911,196.81
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2627</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v5ABgGpDJN0Q1Q9U-DWsrAQdBmmNCp3P8fnfigvDCxWQKif6INbmtyNsak4yoHk6gJbXInFwLE_Iw" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 15:48:17; Coordinates: N45°54'49.99"; E4°49'22.53"; Model: iPhone 14 Pro; Exposure Time: 1/489 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 2054949; File Date: 01/10/2025 09:47:10; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 2268x2615; Megapixels: 5.9; Altitude: 197.0 m; GPS Date: 29/09/2025; Speed: 0.000 km/h; Image Direction: 180.13°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v5ABgGpDJN0Q1Q9U-DWsrAQdBmmNCp3P8fnfigvDCxWQKif6INbmtyNsak4yoHk6gJbXInFwLE_Iw</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.822925,45.913886,197.03
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2629</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v6Cqye3EYit1vqdj_yLs2Z0_euw5qWb_cfk6zLwtRkHvk094gvYVgkSXQ7NX2NSSHAOtjlleiD3Ii8" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 15:48:28; Coordinates: N45°54'49.88"; E4°49'22.67"; Model: iPhone 14 Pro; Exposure Time: 1/543 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 2249798; File Date: 01/10/2025 09:47:10; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 2268x3024; Megapixels: 6.9; Altitude: 196.5 m; GPS Date: 29/09/2025; Speed: 1.400 km/h; Image Direction: 91.28°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v6Cqye3EYit1vqdj_yLs2Z0_euw5qWb_cfk6zLwtRkHvk094gvYVgkSXQ7NX2NSSHAOtjlleiD3Ii8</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.822964,45.913856,196.53
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2630</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v4iZSoITI3ZWDK_QNeozoqkH-5sJpAEytIYmupxghi66b65y1aaR2K_ZGK4-o14dTBIEPaGHt17q7M" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 15:52:33; Coordinates: N45°54'43.63"; E4°49'21.23"; Model: iPhone 14 Pro; Exposure Time: 1/486 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 2197085; File Date: 01/10/2025 09:47:10; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 2268x3024; Megapixels: 6.9; Altitude: 198.4 m; GPS Date: 29/09/2025; Speed: 0.750 km/h; Image Direction: 114.73°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v4iZSoITI3ZWDK_QNeozoqkH-5sJpAEytIYmupxghi66b65y1aaR2K_ZGK4-o14dTBIEPaGHt17q7M</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.822564,45.912119,198.35
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2632</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v4OAkavH1Q-ZCoAFNfyIIVT0v25Ol9CW3PsW8gKVvQeGiKoo2oKhZMzAq6on2z1lfFTVpfxaUC32g" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 15:52:46; Coordinates: N45°54'43.14"; E4°49'21.21"; Model: iPhone 14 Pro; Exposure Time: 1/3585 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 1766281; File Date: 01/10/2025 09:47:10; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 1855x3011; Megapixels: 5.6; Altitude: 198.7 m; GPS Date: 29/09/2025; Speed: 1.300 km/h; Image Direction: 248.56°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v4OAkavH1Q-ZCoAFNfyIIVT0v25Ol9CW3PsW8gKVvQeGiKoo2oKhZMzAq6on2z1lfFTVpfxaUC32g</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.822558,45.911983,198.69
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2633</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v7j-WswyOVUQT6fBtUo3klDFMfSziP_SJ0MdSbe4faRdsNA2DvUVg75eHy7LfQV1FLcJC__i0fIEX8" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 15:52:50; Coordinates: N45°54'43.00"; E4°49'21.19"; Model: iPhone 14 Pro; Exposure Time: 1/3345 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 2365400; File Date: 01/10/2025 09:47:10; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 2268x3024; Megapixels: 6.9; Altitude: 199.8 m; GPS Date: 29/09/2025; Speed: 0.870 km/h; Image Direction: 343.43°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v7j-WswyOVUQT6fBtUo3klDFMfSziP_SJ0MdSbe4faRdsNA2DvUVg75eHy7LfQV1FLcJC__i0fIEX8</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.822553,45.911944,199.78
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2635</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v7qGY1UUe2WGfu7xUtXlkDRNmf9uY5nzsKIo1DgIBy96ENclUzuACjOvTRuGcCwGFgtKE_rEJLbiP8" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 15:56:29; Coordinates: N45°54'41.23"; E4°49'20.77"; Model: iPhone 14 Pro; Exposure Time: 1/12048 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 2267652; File Date: 01/10/2025 09:47:10; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 2268x3024; Megapixels: 6.9; Altitude: 194.4 m; GPS Date: 29/09/2025; Speed: 1.570 km/h; Image Direction: 230.80°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v7qGY1UUe2WGfu7xUtXlkDRNmf9uY5nzsKIo1DgIBy96ENclUzuACjOvTRuGcCwGFgtKE_rEJLbiP8</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.822436,45.911453,194.36
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2636</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v5217i1z9x6ZdXGzxyoac8UbKYBSwpJAKXQt5nAriHeZ4eF7JSEnrFHXqkn1VjQ5PueYIH1TtNuL2c" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 15:58:58; Coordinates: N45°54'34.54"; E4°49'19.77"; Model: iPhone 14 Pro; Exposure Time: 1/2465 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 2757899; File Date: 01/10/2025 09:47:10; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 2268x3024; Megapixels: 6.9; Altitude: 193.4 m; GPS Date: 29/09/2025; Speed: 0.000 km/h; Image Direction: 79.46°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v5217i1z9x6ZdXGzxyoac8UbKYBSwpJAKXQt5nAriHeZ4eF7JSEnrFHXqkn1VjQ5PueYIH1TtNuL2c</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.822158,45.909594,193.39
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2640</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v5XuOu64iFyK5xLdvgVMPmm3vK84gYarWouZ5yT5k7KsLcSpeKF8UQf5cq29lvCoJiQBnUa7UfgDD4" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 16:04:32; Coordinates: N45°54'22.45"; E4°49'23.66"; Model: iPhone 14 Pro; Exposure Time: 1/4525 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 1940678; File Date: 01/10/2025 09:47:10; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 2268x3024; Megapixels: 6.9; Altitude: 201.8 m; GPS Date: 29/09/2025; Speed: 0.000 km/h; Image Direction: 345.30°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v5XuOu64iFyK5xLdvgVMPmm3vK84gYarWouZ5yT5k7KsLcSpeKF8UQf5cq29lvCoJiQBnUa7UfgDD4</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.823239,45.906236,201.75
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2641</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v4BtnG2P-BS-2pYc686AooicZlvVNepf6VNhNkXuObEjk8mozeBonprKqF8Tm_cDJoo6iMUKHDRMzw" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 16:04:44; Coordinates: N45°54'22.32"; E4°49'23.74"; Model: iPhone 14 Pro; Exposure Time: 1/4000 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 1337001; File Date: 01/10/2025 09:47:10; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 2268x3024; Megapixels: 6.9; Altitude: 202.1 m; GPS Date: 29/09/2025; Speed: 1.150 km/h; Image Direction: 92.66°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v4BtnG2P-BS-2pYc686AooicZlvVNepf6VNhNkXuObEjk8mozeBonprKqF8Tm_cDJoo6iMUKHDRMzw</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.823261,45.9062,202.09
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2642</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v5YQqjDlS8q8DTkhKlRf5kurNIFJ8DKbPAGBv3R5G6BYuf-Ygw5oIGD3QAILzYoc20eU38dkOld0cs" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 16:04:47; Coordinates: N45°54'22.20"; E4°49'23.75"; Model: iPhone 14 Pro; Exposure Time: 1/7576 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 1529520; File Date: 01/10/2025 09:47:10; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 2268x3024; Megapixels: 6.9; Altitude: 201.6 m; GPS Date: 29/09/2025; Speed: 1.180 km/h; Image Direction: 276.23°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v5YQqjDlS8q8DTkhKlRf5kurNIFJ8DKbPAGBv3R5G6BYuf-Ygw5oIGD3QAILzYoc20eU38dkOld0cs</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.823264,45.906167,201.62
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2643</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v7UhfTSfW6SH_1N8nZOVfSHIRFbUB9-Cicjq6zs4sKDLyWxIAdhk_JS7w-IUuga6-YvR4pBSdjVjGo" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 16:06:09; Coordinates: N45°54'20.29"; E4°49'24.91"; Model: iPhone 14 Pro; Exposure Time: 1/1640 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 4197535; File Date: 01/10/2025 09:47:10; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 4032x3024; Megapixels: 12.2; Altitude: 197.5 m; GPS Date: 29/09/2025; Speed: 0.970 km/h; Image Direction: 163.16°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v7UhfTSfW6SH_1N8nZOVfSHIRFbUB9-Cicjq6zs4sKDLyWxIAdhk_JS7w-IUuga6-YvR4pBSdjVjGo</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.823586,45.905636,197.5
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2644</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v60Yc91HcwyAZBMPVlMla6BMShD6QxJIZ1uS5vr7M6opjvxG2jRI0WCayKbUrInrvPqlfw7w6Hu2Cg" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 16:21:13; Coordinates: N45°54'12.74"; E4°49'30.64"; Model: iPhone 14 Pro; Exposure Time: 1/1515 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 2269093; File Date: 01/10/2025 09:47:10; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 4032x3024; Megapixels: 12.2; Altitude: 202.6 m; GPS Date: 29/09/2025; Speed: 0.270 km/h; Image Direction: 172.98°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v60Yc91HcwyAZBMPVlMla6BMShD6QxJIZ1uS5vr7M6opjvxG2jRI0WCayKbUrInrvPqlfw7w6Hu2Cg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.825178,45.903539,202.6
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2645</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v4wtKGi5iZnpXJkfMbcRmTr3aUlUvwqVdtFfUByqLxrVQ7KOG8mYWJrfC-DiKkqkE8W9F4wvRE8zHU" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 16:21:19; Coordinates: N45°54'12.64"; E4°49'30.64"; Model: iPhone 14 Pro; Exposure Time: 1/2875 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 3224389; File Date: 01/10/2025 09:47:10; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 4032x3024; Megapixels: 12.2; Altitude: 201.1 m; GPS Date: 29/09/2025; Speed: 0.530 km/h; Image Direction: 295.99°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v4wtKGi5iZnpXJkfMbcRmTr3aUlUvwqVdtFfUByqLxrVQ7KOG8mYWJrfC-DiKkqkE8W9F4wvRE8zHU</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.825178,45.903511,201.05
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2646</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v5l8LFi-uJ1lEvukLAOe1Spmp87EZYJP7G4yNCwgHoho5IePKjyJP_kfmmlgyfbWSEaJJx5-LmiP2o" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 16:23:07; Coordinates: N45°54'10.73"; E4°49'31.90"; Model: iPhone 14 Pro; Exposure Time: 1/2025 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 2381741; File Date: 01/10/2025 09:47:10; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 4032x3024; Megapixels: 12.2; Altitude: 201.3 m; GPS Date: 29/09/2025; Speed: 0.000 km/h; Image Direction: 332.41°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v5l8LFi-uJ1lEvukLAOe1Spmp87EZYJP7G4yNCwgHoho5IePKjyJP_kfmmlgyfbWSEaJJx5-LmiP2o</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.825528,45.902981,201.31
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2647</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v4RhIeHCnGQ4kSa2PJ4M-lp2ktPFNyzkMDEy4em-_mGaTfpGZAiXY5T1I-muL0rdCIrr-kHVWj4GQ" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 16:23:09; Coordinates: N45°54'10.74"; E4°49'31.88"; Model: iPhone 14 Pro; Exposure Time: 1/3850 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 3999394; File Date: 01/10/2025 09:47:10; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 4032x3024; Megapixels: 12.2; Altitude: 201.2 m; GPS Date: 29/09/2025; Speed: 0.000 km/h; Image Direction: 43.71°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v4RhIeHCnGQ4kSa2PJ4M-lp2ktPFNyzkMDEy4em-_mGaTfpGZAiXY5T1I-muL0rdCIrr-kHVWj4GQ</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.825522,45.902983,201.22
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2648</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v7NiePUPkXhJPtL1XwXjB5vBjvy2Zy8rwk7N_i1ihxWDhpci1wn9T4IxTe5j0-aEerH44aJvvth-us" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 16:23:10; Coordinates: N45°54'10.76"; E4°49'31.88"; Model: iPhone 14 Pro; Exposure Time: 1/3850 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 2349358; File Date: 01/10/2025 09:47:10; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 4032x3024; Megapixels: 12.2; Altitude: 201.1 m; GPS Date: 29/09/2025; Speed: 0.000 km/h; Image Direction: 94.83°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v7NiePUPkXhJPtL1XwXjB5vBjvy2Zy8rwk7N_i1ihxWDhpci1wn9T4IxTe5j0-aEerH44aJvvth-us</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.825522,45.902989,201.1
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2649</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v5RS5qEyTvbtpfouACaf-enszVCmiVlctjT-3DRKaY205ntPqKIQigqfpcMUXSXRR2sHpWOV9y8kg" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 16:27:21; Coordinates: N45°54'15.10"; E4°49'21.08"; Model: iPhone 14 Pro; Exposure Time: 1/5848 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 3792439; File Date: 01/10/2025 09:47:10; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 4032x3024; Megapixels: 12.2; Altitude: 193.5 m; GPS Date: 29/09/2025; Speed: 0.000 km/h; Image Direction: 274.35°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v5RS5qEyTvbtpfouACaf-enszVCmiVlctjT-3DRKaY205ntPqKIQigqfpcMUXSXRR2sHpWOV9y8kg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.822522,45.904194,193.54
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2650</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v6gQ0eqcIuwye0-f0qg5nlff2N5PBS9Dp5UEO3k4foF0F3814C9EDYl4kI5FL3jZc4EFPJBA2Qk4ag" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 16:29:18; Coordinates: N45°53'59.40"; E4°49'38.83"; Model: iPhone 14 Pro; Exposure Time: 1/1985 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 3840639; File Date: 01/10/2025 09:47:10; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 4032x3024; Megapixels: 12.2; Altitude: 202.9 m; GPS Date: 29/09/2025; Speed: 0.000 km/h; Image Direction: 293.86°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v6gQ0eqcIuwye0-f0qg5nlff2N5PBS9Dp5UEO3k4foF0F3814C9EDYl4kI5FL3jZc4EFPJBA2Qk4ag</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.827453,45.899833,202.9
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2653</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v6L-I9AuePBRBnBF_jBt7zR_ZgDzBLTmUSj9BA8HL-GNvoG2oe4q7tT3OGvduuc8RbrgP4InKzWAXY" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 16:37:50; Coordinates: N45°53'50.91"; E4°49'44.86"; Model: iPhone 14 Pro; Exposure Time: 1/2725 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 4232263; File Date: 01/10/2025 09:47:10; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 4032x3024; Megapixels: 12.2; Altitude: 200.8 m; GPS Date: 29/09/2025; Speed: 0.690 km/h; Image Direction: 65.17°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v6L-I9AuePBRBnBF_jBt7zR_ZgDzBLTmUSj9BA8HL-GNvoG2oe4q7tT3OGvduuc8RbrgP4InKzWAXY</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.829128,45.897475,200.8
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2654</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v4RzLHR76QJQ3_5r9v6cGhfadNRjp5w8jM7bAuUyLk3CCPpdVl6_7lXJ0lnjm32X2HyR6DCXjgMvvM" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 16:38:09; Coordinates: N45°53'50.71"; E4°49'44.80"; Model: iPhone 14 Pro; Exposure Time: 1/3460 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 3929531; File Date: 01/10/2025 09:47:10; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 4032x3024; Megapixels: 12.2; Altitude: 199.4 m; GPS Date: 29/09/2025; Speed: 0.440 km/h; Image Direction: 348.19°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v4RzLHR76QJQ3_5r9v6cGhfadNRjp5w8jM7bAuUyLk3CCPpdVl6_7lXJ0lnjm32X2HyR6DCXjgMvvM</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.829111,45.897419,199.43
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2656</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v7G5R2zsV-tPmdPGuFSHMR6BuyNmTeBmkgqXNTk3iv0heVd9X4QaxEQhVXh1JPjSZdf6HKpuACHTIA" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 16:48:00; Coordinates: N45°53'37.84"; E4°49'44.44"; Model: iPhone 14 Pro; Exposure Time: 1/927 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 5183688; File Date: 01/10/2025 09:47:10; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 4032x3024; Megapixels: 12.2; Altitude: 188.2 m; GPS Date: 29/09/2025; Speed: 0.000 km/h; Image Direction: 131.73°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v7G5R2zsV-tPmdPGuFSHMR6BuyNmTeBmkgqXNTk3iv0heVd9X4QaxEQhVXh1JPjSZdf6HKpuACHTIA</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.829011,45.893844,188.16
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2658</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v4RyrCp9lnsMhB0iBRc8P8rmnnfM34vuDzsAUSN7RM73lTjpVtMhMoQbM2cRziQNHfeMeljxV560yI" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 16:50:28; Coordinates: N45°53'27.03"; E4°49'44.17"; Model: iPhone 14 Pro; Exposure Time: 1/4170 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 2707066; File Date: 01/10/2025 09:47:10; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 4032x3024; Megapixels: 12.2; Altitude: 185.8 m; GPS Date: 29/09/2025; Speed: 0.000 km/h; Image Direction: 47.98°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v4RyrCp9lnsMhB0iBRc8P8rmnnfM34vuDzsAUSN7RM73lTjpVtMhMoQbM2cRziQNHfeMeljxV560yI</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.828936,45.890842,185.76
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2659</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v6tHfmtMFbH8GyhMfjmic3qlEIODXTW7H4uPMDGWywkVnxi_qAKHkaT_HjqLqe3x5nkLKUfYYOKjw" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 16:50:31; Coordinates: N45°53'32.61"; E4°49'46.13"; Model: iPhone 14 Pro; Exposure Time: 1/4170 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 1931534; File Date: 01/10/2025 09:47:10; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 4032x3024; Megapixels: 12.2; Altitude: 177.0 m; GPS Date: 29/09/2025; Speed: 0.000 km/h; Image Direction: 334.73°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v6tHfmtMFbH8GyhMfjmic3qlEIODXTW7H4uPMDGWywkVnxi_qAKHkaT_HjqLqe3x5nkLKUfYYOKjw</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.829481,45.892392,176.96
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2660</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v4ejUHjB4MBuxlQmxFtPY-V8R9znPjA7ycEJ-l7j6trkdW9dXY_MTo_HJ-D6YV0DCflbgBWb-LLWH8" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 16:54:36; Coordinates: N45°53'26.37"; E4°49'47.55"; Model: iPhone 14 Pro; Exposure Time: 1/2025 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 2653268; File Date: 01/10/2025 09:47:10; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 4032x3024; Megapixels: 12.2; Altitude: 177.4 m; GPS Date: 29/09/2025; Speed: 0.000 km/h; Image Direction: 353.29°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v4ejUHjB4MBuxlQmxFtPY-V8R9znPjA7ycEJ-l7j6trkdW9dXY_MTo_HJ-D6YV0DCflbgBWb-LLWH8</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.829875,45.890658,177.35
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2661</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v5JRcwv8O2103lf7mOAJimsT0vH0UqXMCIxDowrxaqoxkkTR2NfD01o__4zHa4YAjG-VnJD05up4A" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 17:04:27; Coordinates: N45°53'14.77"; E4°49'58.71"; Model: iPhone 14 Pro; Exposure Time: 1/1255 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 3691002; File Date: 01/10/2025 09:47:10; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 4032x3024; Megapixels: 12.2; Altitude: 178.8 m; GPS Date: 29/09/2025; Speed: 0.000 km/h; Image Direction: 142.45°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v5JRcwv8O2103lf7mOAJimsT0vH0UqXMCIxDowrxaqoxkkTR2NfD01o__4zHa4YAjG-VnJD05up4A</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.832975,45.887436,178.83
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2663</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v5m220vIIzLLW01_LRH6qkjq4NrefYhSGMdJIVBfBcRsHB5C_kTaLx8R8spb300CeA0_Qv_YM7OuLs" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 17:14:10; Coordinates: N45°53'0.09"; E4°50'13.09"; Model: iPhone 14 Pro; Exposure Time: 1/5848 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 1508122; File Date: 01/10/2025 09:47:10; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 4032x3024; Megapixels: 12.2; Altitude: 190.5 m; GPS Date: 29/09/2025; Speed: 0.000 km/h; Image Direction: 221.04°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v5m220vIIzLLW01_LRH6qkjq4NrefYhSGMdJIVBfBcRsHB5C_kTaLx8R8spb300CeA0_Qv_YM7OuLs</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.836969,45.883358,190.49
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2664</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v6yBWi1Cib6YXldgnkiQcRg1f5m-tZmNFXa1EE34fiFccPDAsQW-rfzmfQmWVOmiHEOJ8tFngHeaRc" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 17:14:12; Coordinates: N45°53'0.02"; E4°50'13.10"; Model: iPhone 14 Pro; Exposure Time: 1/2350 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 2814823; File Date: 01/10/2025 09:47:10; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 4032x3024; Megapixels: 12.2; Altitude: 187.8 m; GPS Date: 29/09/2025; Speed: 0.100 km/h; Image Direction: 278.30°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v6yBWi1Cib6YXldgnkiQcRg1f5m-tZmNFXa1EE34fiFccPDAsQW-rfzmfQmWVOmiHEOJ8tFngHeaRc</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.836972,45.883339,187.77
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2665</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v5ccaAWZQZRNqZR95Pm1BZqjDvTMtnwZShYm4hZWwS-ZIsnYHNcUcS_z_KTYKZr8WbsbeZSWY2JYJc" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 17:14:17; Coordinates: N45°52'59.99"; E4°50'13.14"; Model: iPhone 14 Pro; Exposure Time: 1/2465 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 3206185; File Date: 01/10/2025 09:47:11; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 4032x3024; Megapixels: 12.2; Altitude: 186.6 m; GPS Date: 29/09/2025; Speed: 0.160 km/h; Image Direction: 125.50°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v5ccaAWZQZRNqZR95Pm1BZqjDvTMtnwZShYm4hZWwS-ZIsnYHNcUcS_z_KTYKZr8WbsbeZSWY2JYJc</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.836983,45.883331,186.57
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2666</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v7DtFXtypCW8Ws7ywMLVUDbT13DcbFMGgLg0yKyowKou49jpzNL9uZQv9DmUwHYVFEh6OeHqRtuhPE" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 17:31:30; Coordinates: N45°52'44.54"; E4°50'28.64"; Model: iPhone 14 Pro; Exposure Time: 1/235 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 64; Rating: 0; File Size: 4229677; File Date: 01/10/2025 09:47:11; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 4032x3024; Megapixels: 12.2; Altitude: 189.1 m; GPS Date: 29/09/2025; Speed: 0.000 km/h; Image Direction: 303.59°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v7DtFXtypCW8Ws7ywMLVUDbT13DcbFMGgLg0yKyowKou49jpzNL9uZQv9DmUwHYVFEh6OeHqRtuhPE</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.841289,45.879039,189.06
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2667</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v7qE_TpmcCNQhdamcKXjdRc3NYSOihE3rc9-0Ho6lb2auCkFb9ZW51l6aIgxO0o-H-2vwwInvz8yvg" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 17:31:34; Coordinates: N45°52'44.43"; E4°50'28.44"; Model: iPhone 14 Pro; Exposure Time: 1/1198 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 4726035; File Date: 01/10/2025 09:47:11; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 4032x3024; Megapixels: 12.2; Altitude: 188.3 m; GPS Date: 29/09/2025; Speed: 0.000 km/h; Image Direction: 101.89°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v7qE_TpmcCNQhdamcKXjdRc3NYSOihE3rc9-0Ho6lb2auCkFb9ZW51l6aIgxO0o-H-2vwwInvz8yvg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.841233,45.879008,188.3
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2670</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v6mPj0HQPq2n-_yMLgf-hTF3KR1b10ihOkZJJS_JIRaQLXgW3PlKWG5m_yYWFjydeVBWg5Y_VaNHDM" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 17:37:52; Coordinates: N45°52'40.68"; E4°50'31.33"; Model: iPhone 14 Pro; Exposure Time: 1/1515 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 1651970; File Date: 01/10/2025 09:47:11; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 4032x3024; Megapixels: 12.2; Altitude: 183.7 m; GPS Date: 29/09/2025; Speed: 0.000 km/h; Image Direction: 309.26°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v6mPj0HQPq2n-_yMLgf-hTF3KR1b10ihOkZJJS_JIRaQLXgW3PlKWG5m_yYWFjydeVBWg5Y_VaNHDM</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.842036,45.877967,183.72
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2671</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v5dAgMIbf2EsCxGxRCri2QcpoCXy3Wi_930hNTJUMU6eFBk1d6wydIFKGpP72fpTSsxOY4sawft-c4" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 17:38:25; Coordinates: N45°52'41.55"; E4°50'31.97"; Model: iPhone 14 Pro; Exposure Time: 1/989 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 4069565; File Date: 01/10/2025 09:47:11; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 4032x3024; Megapixels: 12.2; Altitude: 189.0 m; GPS Date: 29/09/2025; Speed: 0.180 km/h; Image Direction: 292.32°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v5dAgMIbf2EsCxGxRCri2QcpoCXy3Wi_930hNTJUMU6eFBk1d6wydIFKGpP72fpTSsxOY4sawft-c4</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.842214,45.878208,188.99
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2672</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v5XVfwEgdypr_FGX2ncdFXWSJ7-IVPxdh7o3KnMRtstJDAm5IAj-vrB-MCiUO0_RlSvOHwiq5wiL74" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 17:41:32; Coordinates: N45°52'38.68"; E4°50'37.37"; Model: iPhone 14 Pro; Exposure Time: 1/1072 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 2043191; File Date: 01/10/2025 09:47:11; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 4032x3024; Megapixels: 12.2; Altitude: 181.4 m; GPS Date: 29/09/2025; Speed: 0.790 km/h; Image Direction: 93.60°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v5XVfwEgdypr_FGX2ncdFXWSJ7-IVPxdh7o3KnMRtstJDAm5IAj-vrB-MCiUO0_RlSvOHwiq5wiL74</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.843714,45.877411,181.36
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2673</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v4DzGEBF3h07DGRLpkJmqS3NqbkAaMA9iXUmm6YjM7lHDIIR9_rlStbu2z_D850W2GQEyqDcrIVzzU" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 17:41:57; Coordinates: N45°52'38.46"; E4°50'37.97"; Model: iPhone 14 Pro; Exposure Time: 1/1020 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 2048526; File Date: 01/10/2025 09:47:11; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 4032x3024; Megapixels: 12.2; Altitude: 187.7 m; GPS Date: 29/09/2025; Speed: 0.000 km/h; Image Direction: 284.28°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v4DzGEBF3h07DGRLpkJmqS3NqbkAaMA9iXUmm6YjM7lHDIIR9_rlStbu2z_D850W2GQEyqDcrIVzzU</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.843881,45.87735,187.74
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2674</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v7TUINbRY6kXHNg5SceqKL8Ewr55_chl_GbQhPPDIl8hGh4jl5jJPJxQjFb5eixNBl8a1oJhjLeAwo" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 17:43:16; Coordinates: N45°52'36.51"; E4°50'38.26"; Model: iPhone 14 Pro; Exposure Time: 1/121 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 3709462; File Date: 01/10/2025 09:47:11; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 4032x3024; Megapixels: 12.2; Altitude: 183.8 m; GPS Date: 29/09/2025; Speed: 0.000 km/h; Image Direction: 120.00°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v7TUINbRY6kXHNg5SceqKL8Ewr55_chl_GbQhPPDIl8hGh4jl5jJPJxQjFb5eixNBl8a1oJhjLeAwo</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.843961,45.876808,183.81
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2675</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v46r54IkOTAmqCJBQNe7rx13_TBxxI9QRRxcacsUtuE3ODVqB7A3QUqF8cninL_az8FW3bAwLKluh8" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 17:47:35; Coordinates: N45°52'35.63"; E4°50'40.68"; Model: iPhone 14 Pro; Exposure Time: 1/654 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 2935364; File Date: 01/10/2025 09:47:11; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 4032x3024; Megapixels: 12.2; Altitude: 189.5 m; GPS Date: 29/09/2025; Speed: 0.000 km/h; Image Direction: 333.20°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v46r54IkOTAmqCJBQNe7rx13_TBxxI9QRRxcacsUtuE3ODVqB7A3QUqF8cninL_az8FW3bAwLKluh8</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.844633,45.876564,189.51
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2676</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v46JwAv99OU5rlIpGaX009gNwhIe_2mf36QCmlntrfr6VY6bFqmA3FBIAIN5nIdh9CqELeZwUO6xQ" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 17:47:39; Coordinates: N45°52'35.73"; E4°50'40.90"; Model: iPhone 14 Pro; Exposure Time: 1/198 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 3800662; File Date: 01/10/2025 09:47:11; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 4032x3024; Megapixels: 12.2; Altitude: 190.7 m; GPS Date: 29/09/2025; Speed: 0.000 km/h; Image Direction: 358.04°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v46JwAv99OU5rlIpGaX009gNwhIe_2mf36QCmlntrfr6VY6bFqmA3FBIAIN5nIdh9CqELeZwUO6xQ</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.844694,45.876592,190.69
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2677</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v4P5EBvJeYazFoV09vJ14EKIy27StB6ZYx7j68fxJsqkTbYSneMGFvqI774ogvzCfMd7DQ6wSIRRsA" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 17:49:45; Coordinates: N45°52'32.93"; E4°50'43.16"; Model: iPhone 14 Pro; Exposure Time: 1/121 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 160; Rating: 0; File Size: 3687703; File Date: 01/10/2025 09:47:11; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 4032x3024; Megapixels: 12.2; Altitude: 189.3 m; GPS Date: 29/09/2025; Speed: 0.000 km/h; Image Direction: 176.57°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v4P5EBvJeYazFoV09vJ14EKIy27StB6ZYx7j68fxJsqkTbYSneMGFvqI774ogvzCfMd7DQ6wSIRRsA</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.845322,45.875814,189.28
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2679</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v6_XB69U5VVrpiajw6vSpzLoMsd9TPp3T2xq_OXYsxfIim7Gip4NBJ79YOZ3bFB_6i0dZCjZuiZGqc" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 17:51:42; Coordinates: N45°52'30.04"; E4°50'43.58"; Model: iPhone 14 Pro; Exposure Time: 1/422 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 3904799; File Date: 01/10/2025 09:47:11; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 4032x3024; Megapixels: 12.2; Altitude: 188.1 m; GPS Date: 29/09/2025; Speed: 0.020 km/h; Image Direction: 33.62°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v6_XB69U5VVrpiajw6vSpzLoMsd9TPp3T2xq_OXYsxfIim7Gip4NBJ79YOZ3bFB_6i0dZCjZuiZGqc</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.845439,45.875011,188.05
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2683</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v7aRzElRAhVUBMeppSf-wLKHPWDAW1TmCwhYTkvAj-cdkzCvQOGXwV8NgUKB2C_ZSylvWeSsNN887g" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 17:55:58; Coordinates: N45°52'24.89"; E4°50'44.35"; Model: iPhone 14 Pro; Exposure Time: 1/1615 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 4720349; File Date: 01/10/2025 09:47:11; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 4032x3024; Megapixels: 12.2; Altitude: 193.3 m; GPS Date: 29/09/2025; Speed: 0.000 km/h; Image Direction: 46.39°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v7aRzElRAhVUBMeppSf-wLKHPWDAW1TmCwhYTkvAj-cdkzCvQOGXwV8NgUKB2C_ZSylvWeSsNN887g</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.845653,45.873581,193.3
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2685</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v75zYGREKJH3KJEsBH97exH_o-wgc8SpzP_mhArg31KzhAECWuZPCax1RlTVXyZndg3p5zRR56y8w" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 18:02:39; Coordinates: N45°52'11.39"; E4°50'38.29"; Model: iPhone 14 Pro; Exposure Time: 1/3345 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 2673514; File Date: 01/10/2025 09:47:11; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 4032x3024; Megapixels: 12.2; Altitude: 185.4 m; GPS Date: 29/09/2025; Speed: 0.000 km/h; Image Direction: 101.67°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v75zYGREKJH3KJEsBH97exH_o-wgc8SpzP_mhArg31KzhAECWuZPCax1RlTVXyZndg3p5zRR56y8w</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.843969,45.869831,185.44
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2687</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v4T9YN5NfKUfdsG_fiOVVa9boQTjWvava8O4HFABZEwVMtEt0LHdWuAHehoHdXXuV4GSkdbjiJhNlw" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 18:19:45; Coordinates: N45°51'57.10"; E4°50'28.37"; Model: iPhone 14 Pro; Exposure Time: 1/646 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 1431418; File Date: 01/10/2025 09:47:11; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 4032x3024; Megapixels: 12.2; Altitude: 191.9 m; GPS Date: 29/09/2025; Speed: 0.000 km/h; Image Direction: 332.33°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v4T9YN5NfKUfdsG_fiOVVa9boQTjWvava8O4HFABZEwVMtEt0LHdWuAHehoHdXXuV4GSkdbjiJhNlw</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.841214,45.865861,191.87
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2688</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v4Anll605slLw_mo3EoOZ2O-dp38Wa9tP9vk9Sc1FvBdGZ73zEwhoMenlvLaqDQlO3EgZZBVtIcAzQ" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 18:23:40; Coordinates: N45°51'52.48"; E4°50'47.28"; Model: iPhone 14 Pro; Exposure Time: 1/1170 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 2644899; File Date: 01/10/2025 09:47:11; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 4032x3024; Megapixels: 12.2; Altitude: 179.6 m; GPS Date: 29/09/2025; Speed: 0.000 km/h; Image Direction: 349.01°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v4Anll605slLw_mo3EoOZ2O-dp38Wa9tP9vk9Sc1FvBdGZ73zEwhoMenlvLaqDQlO3EgZZBVtIcAzQ</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.846467,45.864578,179.56
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2690</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v489U0b6Xm6DcqmVRGNfkUR57mZ3OR5sOA1pL8lWlmj42V45ie8huVLR4fv_pLsJcPSx5Te38KX-A" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 18:28:54; Coordinates: N45°51'48.46"; E4°50'48.38"; Model: iPhone 14 Pro; Exposure Time: 1/159 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 2225805; File Date: 01/10/2025 09:47:11; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 2268x3024; Megapixels: 6.9; Altitude: 183.8 m; GPS Date: 29/09/2025; Speed: 0.110 km/h; Image Direction: 346.42°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v489U0b6Xm6DcqmVRGNfkUR57mZ3OR5sOA1pL8lWlmj42V45ie8huVLR4fv_pLsJcPSx5Te38KX-A</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.846772,45.863461,183.78
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_2691</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v5j4-q4tBPQGHOCzPkxSBIAXPvxe_OHP-QuQe3mjte9wSkJbrlXp7Rp9N7dkGURjGgZsnp4JLMhcIU" height="200" width="auto" /><br><br>Taken Date: 29/09/2025 18:32:52; Coordinates: N45°51'40.77"; E4°50'45.93"; Model: iPhone 14 Pro; Exposure Time: 1/1985 s; Focal Length: 6.86 mm; Aperture: F1.78; ISO Speed: 80; Rating: 0; File Size: 1071060; File Date: 01/10/2025 09:47:11; Make: Apple; Focal Length (35mm): 24 mm; Image Size: 2268x3024; Megapixels: 6.9; Altitude: 181.8 m; GPS Date: 29/09/2025; Speed: 0.870 km/h; Image Direction: 324.39°]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v5j4-q4tBPQGHOCzPkxSBIAXPvxe_OHP-QuQe3mjte9wSkJbrlXp7Rp9N7dkGURjGgZsnp4JLMhcIU</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.846092,45.861325,181.79
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
